@@ -60,3 +60,8 @@ The following analyses were performed:
 1. Clone the repository:
    ```bash
    [git clone https://github.com/LENINUTHUP/ABC-Company-Employee-Analysis
+![1](https://github.com/user-attachments/assets/000a6b5a-dc7b-4fc4-bbd8-e74c41002393)
+![2](https://github.com/user-attachments/assets/3a39a6cd-1ab9-4499-b95d-1dd2727b08ec)
+![3](https://github.com/user-attachments/assets/406a97ac-6f5b-40a3-8f19-f0e5870d73b7)
+![4](https://github.com/user-attachments/assets/234ab362-4a0c-4ae5-9bcd-3e286953825b)
+
